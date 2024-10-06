@@ -79,6 +79,8 @@ We have provided the source codes for IMICS ROC Analyzer software, the ROC plott
 ![IMICS ROC Analyzer][IMICS_ROC_Analyzer]
 
 
+Watch the demo by clicking on the following image.
+
 [![Watch the demo](https://img.youtube.com/vi/_rM6DHBo3Cc/maxresdefault.jpg)](https://youtu.be/_rM6DHBo3Cc)
 
 
