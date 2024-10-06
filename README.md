@@ -74,7 +74,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-We have provided the source codes for IMICS ROC Analyzer software, the ROC plotting function, and the Windows installable file. Please feel free to contact us if there are any concerns.
+We have provided the source codes for IMICS ROC Analyzer software, the ROC plotting function, and the Windows installable file. The Windows installable file are in parted zip format. Please use programs such as 7-Zip to extract the exe file and feel free to contact us if there are any concerns.
 
 ![IMICS ROC Analyzer][IMICS_ROC_Analyzer]
 
