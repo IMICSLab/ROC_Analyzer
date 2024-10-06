@@ -63,9 +63,9 @@
 
 ### Built With
 
-![PyTorch][pytoch]
+![PyQt][qt]
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python][Python]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,4 +110,5 @@ Project Link: [https://arxiv.org/abs/2210.07287](https://arxiv.org/abs/2210.0728
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [IMICS_ROC_Analyzer]: images/fig1.png
-[pytoch]: https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+[qt]: https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
